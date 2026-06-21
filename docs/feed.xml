@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>週次ITニュース（自動キュレーション）</title>
+    <link>https://MarchMD03.github.io/ai-rss/feed.xml</link>
+    <description>関心のある記事とWebエンジニアの必読記事を週1で収集</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 21 Jun 2026 12:13:32 +0900</lastBuildDate>
+
+    <item>
+      <title>[関心] 【AI×人間 チーム開発挑戦記】Claude Codeを「相棒」にして、休日の時間で16本の記事と1つのAIエージェントを作った話 #ClaudeCode</title>
+      <link>https://qiita.com/pekopugu/items/00d94a49438d121efd64</link>
+      <guid isPermaLink="true">https://qiita.com/pekopugu/items/00d94a49438d121efd64</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[関心] 【2026年6月17日大型アップデート】Claude Design徹底解説｜デザインシステム連携・Claude Code双方向統合・新機能を完全解説</title>
+      <link>https://note.com/tothinks/n/n7a655909ce60</link>
+      <guid isPermaLink="true">https://note.com/tothinks/n/n7a655909ce60</guid>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[関心] Claude Codeを「マーケ運用エンジン」にして個人開発サービスの集客を自動化した話 #AI</title>
+      <link>https://qiita.com/equaliA/items/0f74d908813b88b899e1</link>
+      <guid isPermaLink="true">https://qiita.com/equaliA/items/0f74d908813b88b899e1</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[関心] Claude Code 6月版アップデートまとめ｜v2.1.153〜v2.1.178の新機能を一覧で読む</title>
+      <link>https://ai-heartland.com/news/claude-code-june-2026-update/</link>
+      <guid isPermaLink="true">https://ai-heartland.com/news/claude-code-june-2026-update/</guid>
+      <pubDate>Wed, 17 Jun 2026 09:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[関心] 2026年6月版 AIエージェントを本当に使いこなすコツ ― 調査・設計・コーディング別 実践ガイド #プロンプトエンジニアリング</title>
+      <link>https://qiita.com/yun_bow/items/d35ddd7b41d9a9875f15</link>
+      <guid isPermaLink="true">https://qiita.com/yun_bow/items/d35ddd7b41d9a9875f15</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[必読] ChatGPTで広告テスト、日本でも開始　非表示にする方法は？</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[必読] 「シャドーAI」7割超の企業が対策追い付かず</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[必読] Claude &quot;Fable 5&quot;が3日で停止　Anthropicが主張する米国政府の誤解の正体</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html</guid>
+      <pubDate>Tue, 16 Jun 2026 14:15:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[必読] Sakana AI、初の商用サービスはリサーチ特化　&quot;Deep Research&quot;との違いは？　後発でベンチマークも追わないワケ</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[必読] 人工知能学会「AIは人間を代替しない」　社会実装へ4提言　安保・著作権にも言及</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+  </channel>
+</rss>
