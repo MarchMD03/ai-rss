@@ -5,85 +5,113 @@
     <link>https://MarchMD03.github.io/ai-rss/feed.xml</link>
     <description>関心のある記事とWebエンジニアの必読記事を週1で収集</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:13:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 12:50:28 +0900</lastBuildDate>
 
     <item>
-      <title>[関心] 【AI×人間 チーム開発挑戦記】Claude Codeを「相棒」にして、休日の時間で16本の記事と1つのAIエージェントを作った話 #ClaudeCode</title>
-      <link>https://qiita.com/pekopugu/items/00d94a49438d121efd64</link>
-      <guid isPermaLink="true">https://qiita.com/pekopugu/items/00d94a49438d121efd64</guid>
+      <title>[⭐関心] Claude Code 6月新機能 — 5段階エージェントと/cdコマンドで自律開発を実現する</title>
+      <link>https://qiita.com/kai_kou/items/81cee59a85d82535e986</link>
+      <description>Qiita</description>
+      <guid isPermaLink="true">https://qiita.com/kai_kou/items/81cee59a85d82535e986</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[関心] 【2026年6月17日大型アップデート】Claude Design徹底解説｜デザインシステム連携・Claude Code双方向統合・新機能を完全解説</title>
-      <link>https://note.com/tothinks/n/n7a655909ce60</link>
-      <guid isPermaLink="true">https://note.com/tothinks/n/n7a655909ce60</guid>
-      <pubDate>Fri, 19 Jun 2026 16:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
-    <item>
-      <title>[関心] Claude Codeを「マーケ運用エンジン」にして個人開発サービスの集客を自動化した話 #AI</title>
-      <link>https://qiita.com/equaliA/items/0f74d908813b88b899e1</link>
-      <guid isPermaLink="true">https://qiita.com/equaliA/items/0f74d908813b88b899e1</guid>
+      <title>[⭐関心] Claude Code で Qiita 投稿スキル /qiita-draft を設計した記録</title>
+      <link>https://qiita.com/passiomonster/items/942c0f07cb6fad23399b</link>
+      <description>Qiita</description>
+      <guid isPermaLink="true">https://qiita.com/passiomonster/items/942c0f07cb6fad23399b</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[関心] Claude Code 6月版アップデートまとめ｜v2.1.153〜v2.1.178の新機能を一覧で読む</title>
-      <link>https://ai-heartland.com/news/claude-code-june-2026-update/</link>
-      <guid isPermaLink="true">https://ai-heartland.com/news/claude-code-june-2026-update/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:00:00 +0900</pubDate>
+      <title>[⭐関心] Cloudflare Agents SDKとFlue解説｜Workers上にAIエージェントを置く三層設計</title>
+      <link>https://ai-heartland.com/tool/cloudflare-agents-platform-flue-sdk/</link>
+      <description>AI Heartland</description>
+      <guid isPermaLink="true">https://ai-heartland.com/tool/cloudflare-agents-platform-flue-sdk/</guid>
+      <pubDate>Fri, 19 Jun 2026 09:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[関心] 2026年6月版 AIエージェントを本当に使いこなすコツ ― 調査・設計・コーディング別 実践ガイド #プロンプトエンジニアリング</title>
+      <title>[⭐関心] Claude Codeでワークフローを自動生成する方法｜チームの開発品質をコンテキストエンジニアリングで統一する</title>
+      <link>https://qiita.com/apoloffice/items/06cd146564a6e4e9dcc7</link>
+      <description>Qiita</description>
+      <guid isPermaLink="true">https://qiita.com/apoloffice/items/06cd146564a6e4e9dcc7</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[⭐関心] 【2026年6月17日大型アップデート】Claude Design徹底解説｜デザインシステム連携・Claude Code双方向統合・新機能を完全解説</title>
+      <link>https://note.com/tothinks/n/n7a655909ce60</link>
+      <description>note</description>
+      <guid isPermaLink="true">https://note.com/tothinks/n/n7a655909ce60</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[⭐関心] AIエージェントの「圧縮」ツール Headroom を触ってみた ― その圧縮の正体を確かめる</title>
+      <link>https://zenn.dev/flinters_blog/articles/ac681c42c37cc3</link>
+      <description>Zenn</description>
+      <guid isPermaLink="true">https://zenn.dev/flinters_blog/articles/ac681c42c37cc3</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[⭐関心] AIエージェントはCloudflareに賭けろ</title>
+      <link>https://zenn.dev/yusukebe/articles/ccb1f953e48ee1</link>
+      <description>Zenn</description>
+      <guid isPermaLink="true">https://zenn.dev/yusukebe/articles/ccb1f953e48ee1</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[⭐関心] 2026年6月版 AIエージェントを本当に使いこなすコツ ― 調査・設計・コーディング別 実践ガイド</title>
       <link>https://qiita.com/yun_bow/items/d35ddd7b41d9a9875f15</link>
+      <description>Qiita</description>
       <guid isPermaLink="true">https://qiita.com/yun_bow/items/d35ddd7b41d9a9875f15</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[必読] ChatGPTで広告テスト、日本でも開始　非表示にする方法は？</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/</guid>
+      <title>[🔥 必読] 2026/6/21主にITとかセキュリティの記事</title>
+      <link>https://qiita.com/pitopito/items/aad947bfd0f2f3b03870</link>
+      <description>Qiita</description>
+      <guid isPermaLink="true">https://qiita.com/pitopito/items/aad947bfd0f2f3b03870</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[🔥 必読] iPhone 11も対象に。Apple A12/A13チップに修正不能な脆弱性「usbliter8」が発覚</title>
+      <link>https://www.apple-hacks.com/entry/usbliter8-a12-a13-bootrom-exploit</link>
+      <description>となりずむ</description>
+      <guid isPermaLink="true">https://www.apple-hacks.com/entry/usbliter8-a12-a13-bootrom-exploit</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[必読] 「シャドーAI」7割超の企業が対策追い付かず</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/</guid>
+      <title>[🔥 必読] AIへの信頼と設計の問い直し——2026年6月第3週の技術トレンドを読む</title>
+      <link>https://qiita.com/agenticdev/items/1bf0ff04e0f81a8593b0</link>
+      <description>Qiita</description>
+      <guid isPermaLink="true">https://qiita.com/agenticdev/items/1bf0ff04e0f81a8593b0</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[必読] Claude &quot;Fable 5&quot;が3日で停止　Anthropicが主張する米国政府の誤解の正体</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html</guid>
-      <pubDate>Tue, 16 Jun 2026 14:15:00 +0900</pubDate>
-      <category>必読</category>
-    </item>
-
-    <item>
-      <title>[必読] Sakana AI、初の商用サービスはリサーチ特化　&quot;Deep Research&quot;との違いは？　後発でベンチマークも追わないワケ</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
-      <category>必読</category>
-    </item>
-
-    <item>
-      <title>[必読] 人工知能学会「AIは人間を代替しない」　社会実装へ4提言　安保・著作権にも言及</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] AWS Summit New York 2026 での新発表まとめメモ</title>
+      <link>https://qiita.com/hayao_k/items/44b25e2a51d12482a308</link>
+      <description>Qiita</description>
+      <guid isPermaLink="true">https://qiita.com/hayao_k/items/44b25e2a51d12482a308</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
