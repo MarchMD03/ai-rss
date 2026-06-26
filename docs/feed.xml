@@ -5,104 +5,86 @@
     <link>https://MarchMD03.github.io/ai-rss/feed.xml</link>
     <description>関心のある記事とWebエンジニアの必読記事を週1で収集</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 10:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:00:00 +0900</lastBuildDate>
 
     <item>
-      <title>[⭐関心] GitHub Copilot SDK が GA！TypeScript で カスタムツールを動かして料金体系も調べてみた</title>
-      <link>https://dev.classmethod.jp/articles/shoma-github-copilot-sdk-ga-typescript-hello-world-to-custom-tools-pricing/</link>
-      <description>DevelopersIO（クラスメソッド）</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/shoma-github-copilot-sdk-ga-typescript-hello-world-to-custom-tools-pricing/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] 【AWS Summit Japan 2026】社内 AI エージェント導入のその後。組織でAIの能力を発揮する勘所</title>
+      <link>https://iret.media/200468</link>
+      <description>iret.media</description>
+      <guid isPermaLink="true">https://iret.media/200468</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[⭐関心] AI-DLC Workflows v2がプレビューリリースされたのでKiro CLI / Claude Code / Codex CLIにインストールしてみた</title>
-      <link>https://dev.classmethod.jp/articles/aidlc-workflows-v2-install-kiro-claude-codex/</link>
-      <description>DevelopersIO（クラスメソッド）</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/aidlc-workflows-v2-install-kiro-claude-codex/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] Notion が Notion Mail を終了へ、AI エージェントの台頭で受信トレイアプリが不要に</title>
+      <link>https://finance.biggo.jp/news/202606252021_Notion_Mail_Shutdown_September_2026</link>
+      <description>BigGo Finance</description>
+      <guid isPermaLink="true">https://finance.biggo.jp/news/202606252021_Notion_Mail_Shutdown_September_2026</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[⭐関心] VercelのAIエージェントフレームワーク「eve」を試してみた｜ブログのナレッジで自作キーボードエージェントを作る</title>
-      <link>https://dev.classmethod.jp/articles/vercel-eve-agent-framework/</link>
-      <description>DevelopersIO（クラスメソッド）</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/vercel-eve-agent-framework/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] Cloudflare の一時アカウントを使って即座にデプロイできるようになった</title>
+      <link>https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/</link>
+      <description>azukiazusa.dev</description>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[⭐関心] 画面操作を&quot;録画&quot;→AIが作業代行 Codexに新機能「Record &amp; Replay」</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/19/news102.html</link>
-      <description>ITmedia NEWS</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/19/news102.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] DevOpsからAgent Opsへ ― AIエージェントを本番運用する実践プレイブック</title>
+      <link>https://since2020.jp/media/agent-ops-on-databricks-omnigent/</link>
+      <description>Data Driven Knowledgebase</description>
+      <guid isPermaLink="true">https://since2020.jp/media/agent-ops-on-databricks-omnigent/</guid>
+      <pubDate>Sun, 22 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[⭐関心] Anthropic、「Claude Design」を実務向けに強化　ブランド準拠のデザイン生成を支援</title>
-      <link>https://news.mynavi.jp/techplus/article/20260618-4597096/</link>
-      <description>マイナビニュース</description>
-      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20260618-4597096/</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
-    <item>
-      <title>[⭐関心] Kiro for iOSのご紹介</title>
-      <link>https://aws.amazon.com/jp/blogs/news/introducing-kiro-for-ios/</link>
-      <description>Amazon Web Services 公式ブログ</description>
-      <guid isPermaLink="true">https://aws.amazon.com/jp/blogs/news/introducing-kiro-for-ios/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
-    <item>
-      <title>[⭐関心] 月刊 GitHub アップデート: 2026年5月号</title>
-      <link>https://blog.beachside.dev/entry/2026/06/16/120000</link>
-      <description>BEACHSIDE BLOG</description>
-      <guid isPermaLink="true">https://blog.beachside.dev/entry/2026/06/16/120000</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
-    <item>
-      <title>[🔥 必読] 「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/</link>
-      <description>ITmedia AI+</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] AIエージェントと変わらない思想がもたらす&quot;次世代のイノベーション&quot;――AWS Summit Japan 2026基調講演レポート</title>
+      <link>https://cloud.watch.impress.co.jp/docs/event/2120217.html</link>
+      <description>クラウド Watch</description>
+      <guid isPermaLink="true">https://cloud.watch.impress.co.jp/docs/event/2120217.html</guid>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[🔥 必読] Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入 ChatGPTやClaudeとも連携</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/19/news110.html</link>
-      <description>ITmedia NEWS</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/19/news110.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] FortiBleedはなぜ止まらない？ Fortinetが示した「次に確認すべきこと」：「パッチ適用済み」でも危険</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/24/news055.html</link>
+      <description>@IT</description>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/24/news055.html</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[🔥 必読] Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2118062.html</link>
-      <description>窓の杜</description>
-      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2118062.html</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] 新たな攻撃手法「Velvet DDoS」の紹介と調査による補足</title>
+      <link>https://eng-blog.iij.ad.jp/archives/36775</link>
+      <description>IIJ Engineers Blog</description>
+      <guid isPermaLink="true">https://eng-blog.iij.ad.jp/archives/36775</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[🔥 必読] Chrome 149、脆弱性 33 件を修正するアップデート (149.0.7827.155/.156) が展開</title>
-      <link>https://helentech.jp/news-chrome-149-minor-updates-87620/</link>
-      <description>HelenTech</description>
-      <guid isPermaLink="true">https://helentech.jp/news-chrome-149-minor-updates-87620/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] AWS 週間まとめ：NY Summit の振り返り、ハノイでのローカルゾーン、Bedrock での Grok 4.3、価格引き下げなど（2026年6月22日）</title>
+      <link>https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/</link>
+      <description>Amazon Web Services ブログ</description>
+      <guid isPermaLink="true">https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[🔥 必読] マネーフォワード、新たに顧客や従業員の個人データが流出した可能性を確認。GitHub不正アクセスの調査を完了</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2119307.html</link>
+      <description>INTERNET Watch</description>
+      <guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2119307.html</guid>
+      <pubDate>Tue, 23 Jun 2026 14:59:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
